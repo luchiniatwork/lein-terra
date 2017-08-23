@@ -1,4 +1,4 @@
-(defproject luchiniatwork/lein-terra "0.1.0-SNAPSHOT"
+(defproject luchiniatwork/lein-terra "0.1.0"
   :description "Lein plugin for https://github.com/luchiniatwork/terra"
   :url "https://github.com/luchiniatwork/lein-terra"
   
